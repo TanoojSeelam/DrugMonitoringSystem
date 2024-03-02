@@ -44,14 +44,14 @@ Follow these steps to get started with the project:
 6. Run the frontend server.
 7. Access the Drug Monitoring System through your web browser.
 
-## Tech Stack
+## 🛠️ Tech Stack
 
 - **Blockchain**: Ethereum
 - **Smart Contract Language**: Solidity
 - **Frontend**: React.js
 - **Blockchain Interaction Library**: Ethers.js
 
-## How to Run
+## 🏃‍♂️ How to Run
 
 ### Compiling and Deploying the Smart Contract
 
@@ -60,7 +60,7 @@ Follow these steps to get started with the project:
 3. Deploy the compiled contract in the Remix IDE environment using Metamask.
 4. Once deployed, obtain the contract address from the deployed instance.
 
-### Frontend Setup
+### 💻🖥Frontend Setup
 
 1. Navigate to the `client/` folder.
 2. Run `npm install` to install dependencies.
@@ -69,7 +69,7 @@ Follow these steps to get started with the project:
 5. Run `npm start` to start the frontend server.
 6. Access the application through your web browser at `http://localhost:3000`.
 
-## Usage
+## 🚀 Usage
 
 After setting up the frontend and connecting it to the deployed smart contract, you can use the UI provided to interact with the contract. You can perform transactions such as saving drug status, setting products, workers, or other data related to the monitoring system.
 
